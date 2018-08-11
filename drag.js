@@ -4,5 +4,7 @@
 
 function Drag (id){
     var obj = document.getElementById(id);
-    333
+
+    var str = "这里是在测试本地仓库"
+
 }
