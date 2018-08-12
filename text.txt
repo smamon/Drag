@@ -2,4 +2,4 @@ miaov 学习git
 
 git commit -m 'create one '
 
-modify one 666
+modify one 666000
